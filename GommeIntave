@@ -398,7 +398,7 @@ Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe true
 Scaffold Counter true
-Scaffold Mark false
+Scaffold Mark true 
 Scaffold toggle false
 ServerCrasher Mode CubeCraft
 ServerCrasher toggle false
