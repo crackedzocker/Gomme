@@ -263,10 +263,10 @@ KeepAlive toggle false
 KeepContainer toggle false
 Kick Mode Quit
 Kick toggle false
-KillAura MaxCPS 9
+KillAura MaxCPS 10
 KillAura MinCPS 5
 KillAura HurtTime 4
-KillAura Range 3.5
+KillAura Range 3.45
 KillAura ThroughWallsRange 0.0
 KillAura RangeSprintReducement 0.24
 KillAura Priority Direction
@@ -291,7 +291,7 @@ KillAura FOV 180.0
 KillAura Predict true
 KillAura MaxPredictSize 1.5
 KillAura MinPredictSize 1.0
-KillAura FailRate 2.61
+KillAura FailRate 2.50
 KillAura FakeSwing false
 KillAura NoInvAttack true
 KillAura NoInvDelay 0
