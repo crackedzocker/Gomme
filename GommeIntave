@@ -251,7 +251,7 @@ InventoryCleaner SortSlot-9 Block
 InventoryCleaner toggle false
 InventoryMove NoDetectable false
 InventoryMove AACAdditionPro false
-InventoryMove NoMoveClicks false
+InventoryMove NoMoveClicks true
 InventoryMove toggle false
 ItemTeleport Mode Old
 ItemTeleport ResetAfterTP true
