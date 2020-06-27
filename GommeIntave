@@ -481,9 +481,9 @@ Trigger MaxCPS 12
 Trigger MinCPS 8
 Trigger toggle false
 VehicleOneHit toggle false
-Velocity Horizontal 8.0
+Velocity Horizontal 0.6
 Velocity Vertical 0.0
-Velocity Mode Reverse
+Velocity Mode AAC
 Velocity ReverseStrength 0.71
 Velocity SmoothReverseStrength 0.02
 Velocity AACPushXZReducer 1.83
